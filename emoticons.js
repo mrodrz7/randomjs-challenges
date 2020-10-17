@@ -1,5 +1,6 @@
 // Create a switch statement that returns a specific emoticon for a specific string input
 // Example : 'angry' => '>:('
+
 const toEmoticon = (str) => {
     switch (str) {
       case 'angry':
